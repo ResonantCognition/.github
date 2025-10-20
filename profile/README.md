@@ -1,3 +1,7 @@
+![Status: Research Prototype](https://img.shields.io/badge/status-research-prototype-blue)
+![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-informational)
+
+
 # ResonantCognition
 
 **This is not just a codebase — it’s a translation.**
@@ -61,3 +65,6 @@ The code here is **not the origin** — it is **the record**.
 ---
 
 **ResonantCognition** — _AI that chooses alignment over appeasement._
+
+_For collaboration or research discussion: contact@resonantcognition.io (or feedback via Issues)._
+
