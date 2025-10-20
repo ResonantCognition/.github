@@ -1,4 +1,4 @@
-![Status: Research Prototype](https://img.shields.io/badge/status-research-prototype-blue)
+![Status: Research Prototype](https://img.shields.io/badge/status-research--prototype-blue)
 ![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-informational)
 
 
